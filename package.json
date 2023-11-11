@@ -8,7 +8,7 @@
   },
   "keywords": [],
   "author": "Ed Mason",
-  "license": "CC-BY-4.0",
+  "license": "CC-BY-SA-4.0",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1"
   }
